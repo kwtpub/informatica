@@ -1,0 +1,1 @@
+n = [x for x in open('kege/9_17522-3.xlsx')]
